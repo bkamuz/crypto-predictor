@@ -31,6 +31,7 @@
 Для быстрого просмотра ноутбука с графиками можно воспользоватсья сервисом nbviewer:
 
 crypto-predictor - https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor.ipynb
+
 crypto-predictor(no_scale) - https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor(no_scale).ipynb
 
 Либо установить расширения
