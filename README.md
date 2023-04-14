@@ -30,8 +30,8 @@
 
 Для быстрого просмотра ноутбука с графиками можно воспользоватсья сервисом nbviewer:
 
-crypto-predictor - https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor.ipynb
+[открыть crypto-predictor в nbviewer](https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor.ipynb)
 
-crypto-predictor(no_scale) - https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor(no_scale).ipynb
+[открыть crypto-predictor(no_scale) в nbviewer](https://nbviewer.org/github/bkamuz/crypto-predictor/blob/main/crypto-predictor(no_scale).ipynb)
 
-Либо установить расширения
+Либо установить расширения "Plotly renderer for GitHub" или "GitHub + nbviewer". Они позволяют просматривать ноутбуки Jupyter, содержащие графики Plotly, непосредственно на страницах GitHub.
